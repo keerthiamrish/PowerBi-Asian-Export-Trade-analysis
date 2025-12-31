@@ -1,8 +1,7 @@
 # PowerBi-Asian-Export-Trade-analysis
 Project Overview
 This project focuses on analyzing international export trade data using Power BI.
-The objective is to understand export trends, country-wise and region-wise performance,
-commodity contribution, and the impact of currency (INR vs USD) on export growth.
+
 Objectives
 - Analyze total export value and growth trends
 - Identify top exporting countries and regions
@@ -23,17 +22,8 @@ Tools & Technologies
 - Power Query
 - DAX (Basic Measures)
   
- Dashboards & Visuals
-- KPI Cards (Total Export Value, Growth %)
-- Country-wise Export Analysis
-- Region-wise Comparison
-- Commodity Performance Analysis
-- Year-wise Export Trend
-- Currency Impact (INR vs USD)
-  
   Files
 - Power BI report (.pbix)
-- Dataset (Excel)
 - Dashboard screenshots(pdf)
   
   Note
